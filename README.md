@@ -50,7 +50,7 @@ The system is divided into three independent hardware nodes to modularize tasks:
 
 Watch the automated greenhouse in action:
 
-[![Smart Greenhouse Demo](https://img.youtube.com/vi/sc27La4RPKg/0.jpg)]((https://youtu.be/sc27La4RPKg?feature=shared))
+[![Smart Greenhouse Demo](https://img.youtube.com/vi/sc27La4RPKg/0.jpg)](https://youtu.be/sc27La4RPKg?feature=shared)
 
 ## Authors
 
